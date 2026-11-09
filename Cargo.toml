@@ -1,0 +1,8 @@
+[package]
+name = "crate2d"
+version = "0.1.0"
+edition = "2024"
+description = "Reservation for a box2d rust version"
+license = "MIT"
+
+[dependencies]
